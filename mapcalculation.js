@@ -1,8 +1,8 @@
 //Random lat long
-var lat1 = 18.9441296;
-var lon1 = 72.8305983;
-var lat2 = 18.93739;
-var lon2 = 72.83468;
+var lat1 = '';
+var lon1 = '';
+var lat2 = '';
+var lon2 = '';
 
 //Calculate two lat long in meters
 var distanceInMeters = distance(lat1, lon1, lat2, lon2);
